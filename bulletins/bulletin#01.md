@@ -1,8 +1,10 @@
 *bulletin du 05/09/2024*
 
-La Nuit du Code 2025 (9e édition) se déroulera de début mai à fin juin 2025. Les établissements ont donc environ deux mois pour organiser leur Nuit du Code. Les inscriptions sont ouvertes jusqu'à fin avril.
+La Nuit du Code 2025 (9e édition) se déroulera de début mai à fin juin 2025.
 
 Vous pouvez inscrire votre établissement dès à présent sur le site de la Nuit du Code : [www.nuitducode.net](https://www.nuitducode.net/)
+
+Les inscriptions sont ouvertes jusqu'à fin avril.
 
 Un grand merci à l'[AEIF](https://aeif.fr/) qui soutient la Nuit du Code et qui proposera des webinaires pour présenter la Nuit du Code et aider les enseignants à l’organiser dans leurs établissements.
 
