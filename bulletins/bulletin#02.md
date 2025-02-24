@@ -4,10 +4,14 @@
 
 Si vous avez déjà fixé la date de la Nuit du Code pour votre établissement et/ou si vous connaissez déjà le nombre de groupes/élèves dans les différentes catégories, pensez à compléter la partie "DONNÉES" dans la console en vous connectant: https://www.nuitducode.net/login
 
-**Entraînements / préparation**
+<br />
+
+**ENTRAÎNEMENTS / PRÉPARATION**
 
 * Entraînement Scratch : https://nuit-du-code.forge.apps.education.fr/DOCUMENTATION/SCRATCH/01-introduction/
 * Entraînement Python : https://nuit-du-code.forge.apps.education.fr/DOCUMENTATION/PYTHON/01-presentation/
+
+<br />
 
 **AFFICHES, VUSUELS, "GOODIES" et DIAPORAMA**
 
@@ -16,6 +20,8 @@ Le générateur d’affiche permet de créer des affiches adaptées à votre ét
 Des visuels pour la communication et/ou créer des badges, autocollants, tasses… sont disponibles ici: https://nuit-du-code.forge.apps.education.fr/DOCUMENTATION/03-communication-et-goodies/. A la même adresse vous trouverez des objets 3D à imprimer qui peuvent servir de récompenses pour les élèves.
 
 Un exemple de diaporama pour présenter la Nuit du Code est proposé à cette adresse: https://nuitducode.github.io/ndc-diaporama-presentation/. Vous pouvez le cloner pour l’adapter: https://github.com/nuitducode/ndc-diaporama-presentation
+
+<br />
 
 **RESSOURCES et COMMUNICATION**
 
