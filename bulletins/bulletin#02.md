@@ -1,4 +1,4 @@
-*bulletin du 25/03/2024*
+*bulletin du 24/02/2025*
 
 **Informations à compléter / mettre à jour dans la console**
 
@@ -20,6 +20,29 @@ Le générateur d’affiche permet de créer des affiches adaptées à votre ét
 Des visuels pour la communication et/ou créer des badges, autocollants, tasses… sont disponibles ici: https://nuit-du-code.forge.apps.education.fr/DOCUMENTATION/03-communication-et-goodies/. A la même adresse vous trouverez des objets 3D à imprimer qui peuvent servir de récompenses pour les élèves.
 
 Un exemple de diaporama pour présenter la Nuit du Code est proposé à cette adresse: https://nuitducode.github.io/ndc-diaporama-presentation/. Vous pouvez le cloner pour l’adapter: https://github.com/nuitducode/ndc-diaporama-presentation
+
+<br />
+
+**PRÉSENTATION RAPIDE**
+
+La Nuit du Code est un marathon de programmation durant lequel les élèves, par équipes de deux ou trois, ont 6h (ou moins pour le cycle 3) pour coder un jeu avec Scratch ou Python/Pyxel.
+
+Peuvent participer: tous les établissements scolaires français situés en France ou à l'étranger ainsi que tous les établissements scolaires francophones où qu'ils soient. Chaque établissement peut inscrire autant d'élèves qu'il le souhaite. Les inscriptions sont gratuites.
+
+Six catégories :
+- Scratch: CM1-6e, 5e-3e et Lycée
+- Python: NSI Première, NSI Terminale et post-bac
+
+L'an dernier, pour l'édition 2024, 464 établissements se sont inscrits. Soit plus de 11500 élèves de 346 villes et 49 pays.
+
+Si vous n’avez pas participé aux éditions précédentes, voici quelques supports:
+* [Diaporama](https://nuitducode.github.io/ndc-diaporama-presentation/) de présentation (pour les élèves , les familles, les collègues, la direction...)
+* [Vidéos](https://www.nuitducode.net/editions-en-video)
+* [Photos](https://nuitducode.github.io/DOCUMENTATION/01-presentation/#la-nuit-du-c0de-en-images-edition-2022)
+
+Afin de réduire au maximum l'investissement nécessaire pour organiser la Nuit du Code dans les établissements, tous les documents, ressources, tutoriels, supports... sont fournis.
+
+La Nuit du Code peut être un prétexte pour organiser, dans un établissement, un ou plusieurs événements centrés autour de la programmation, du numérique et des nouvelles technologies.
 
 <br />
 
