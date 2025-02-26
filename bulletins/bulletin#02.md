@@ -1,6 +1,6 @@
 *bulletin du 24/02/2025*
 
-**Informations à compléter / mettre à jour dans la console**
+**Informations à compléter / à mettre à jour dans la console**
 
 Si vous avez déjà fixé la date de la Nuit du Code pour votre établissement et/ou si vous connaissez déjà le nombre de groupes/élèves dans les différentes catégories, pensez à compléter la partie "DONNÉES" dans la console en vous connectant: https://www.nuitducode.net/login
 
@@ -13,7 +13,7 @@ Si vous avez déjà fixé la date de la Nuit du Code pour votre établissement e
 
 <br />
 
-**AFFICHES, VUSUELS, "GOODIES" et DIAPORAMA**
+**AFFICHES, VISUELS, "GOODIES" et DIAPORAMA**
 
 Le générateur d’affiche permet de créer des affiches adaptées à votre établissement: https://www.nuitducode.net/affiche-generateur
 
@@ -66,7 +66,7 @@ La Nuit du Code peut être un prétexte pour organiser, dans un établissement, 
 
 * Septembre 2024 - Avril 2025 : Inscriptions
 * Janvier - Mai 2025 : Préparatifs / Entraînements / Sélections
-* Mai 2025 : Chaque établissement organise sa Nuit du Code entre le 28 avril et le 31 mai 2025 selon ses ressources et ses contraintes. Les établissements qui prévoient de ne pas de proposer des jeux pour la sélection internationale peuvent organiser la Nuit du Code jusqu'au 27 juin.
+* Mai 2025 : Chaque établissement organise sa Nuit du Code entre le 28 avril et le 31 mai 2025 selon ses ressources et ses contraintes. Les établissements qui prévoient de ne pas proposer des jeux pour la sélection internationale peuvent organiser la Nuit du Code jusqu'au 27 juin.
 * Mi-juin 2025 : Annonce des jeux de la sélection "Nuit du Code 2025"
 
 <br />
